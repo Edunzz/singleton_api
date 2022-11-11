@@ -4,4 +4,4 @@ services:
     container_name: singletonapi
     build: app/singleton_apirest
     ports:
-      - "80:7214"
+      - "80:80"
